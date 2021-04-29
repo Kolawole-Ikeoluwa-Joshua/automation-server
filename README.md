@@ -23,7 +23,12 @@ Building proficiency in jenkins by integrating jenkins with other tools
 6. Update docker-compose file
 7. Install SSH plugin, setup SSH credentials, configure SSH remote-host via Jenkins UI
 8. Install MySQL client & AWS CLI  via remote-host
-9. Stay tuned...
+9. Create database 'testdb'
+10. Create S3 Bucket on AWS
+11. Create IAM user for Jenkins and assign S3 Policy/Policies
+12. Create "db-script.sh" on remote-host container
+13. Add sensitive credentials via Jenkins Dashboard
+14. Create String Parameters for non-sensitive parameters in script
 
 
 
