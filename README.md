@@ -28,7 +28,8 @@ Building proficiency in jenkins by integrating jenkins with other tools
 11. Create IAM user for Jenkins and assign S3 Policy/Policies
 12. Create "db-script.sh" on remote-host container
 13. Add sensitive credentials via Jenkins Dashboard
-14. Create String Parameters for non-sensitive parameters in script
+14. Create Build "String Parameters" via Jenkins Dashboard, for non-sensitive parameters in script
+15. Execute job with build parameters via Jenkins Dashboard
 
 
 
