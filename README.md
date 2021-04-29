@@ -30,6 +30,5 @@ Building proficiency in jenkins by integrating jenkins with other tools
 13. Add sensitive credentials via Jenkins Dashboard
 14. Create Build "String Parameters" via Jenkins Dashboard, for non-sensitive parameters in script
 15. Execute job with build parameters via Jenkins Dashboard
-
-
+16. Persist backup script into the remote-host container
 
