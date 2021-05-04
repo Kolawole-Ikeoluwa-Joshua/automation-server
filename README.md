@@ -32,3 +32,11 @@ Building proficiency in jenkins by integrating jenkins with other tools
 15. Execute job with build parameters via Jenkins Dashboard
 16. Persist backup script into the remote-host container
 
+## Integrating Jenkins and Ansible! 
+
+##### prerequisite:
+
+1. Build docker image for Jenkins-Ansible automation server
+
+2. Docker Engine
+
